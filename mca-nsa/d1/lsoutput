@@ -1,0 +1,7 @@
+file1.txt
+file.txt
+lsoutput
+total 12
+-rwxrwxr-x 1 exam exam 59 Apr  5 10:43 file1.txt
+-rw-rw-r-- 1 exam exam  9 Apr  5 10:54 file.txt
+-rw-rw-r-- 1 exam exam 28 Apr  5 11:15 lsoutput
